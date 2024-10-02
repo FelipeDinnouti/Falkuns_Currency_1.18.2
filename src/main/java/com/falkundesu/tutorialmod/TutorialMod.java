@@ -16,6 +16,7 @@ public class TutorialMod
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
+    // Testing the ide's version control
     public TutorialMod()
     {
         // Register the setup method for modloading
